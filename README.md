@@ -1,2 +1,2 @@
 # logseq-crm-template
-LogseqCRM content templates
+Logseq CRM content templates
