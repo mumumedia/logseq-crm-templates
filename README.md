@@ -1,5 +1,5 @@
 # Logseq CRM Templates
-Logseq CRM content templates.
+Logseq CRM metadata templates.
 
 A CRM you build as your business grows which enables you to manage customer relationships not just opportunities. Built on the awesome Logseq apps.
 
