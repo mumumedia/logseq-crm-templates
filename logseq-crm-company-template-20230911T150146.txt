@@ -1,0 +1,21 @@
+- Company
+  template:: Company
+  template-including-parent:: false
+	-
+	  Location:: city
+	-
+	  Industry:: industry
+	-
+	  Partners:: company
+	-
+	  Customers:: company
+	-
+	  Revenue:: $123
+	-
+	  Employees:: 123
+	-
+	  Parent:: company
+	-
+	  Website:: /link
+	-
+	  Category:: #companies
