@@ -1,0 +1,24 @@
+- Contact
+  template:: Contact
+  template-including-parent:: false
+	-
+	  Company:: name
+	-
+	  Location:: city
+	-
+	  Email:: someone@abccompany.com
+	-
+	  Title:: title
+	-
+	  Role:: business_user - coach - decision_maker - exec_sponsor - financial_decision_maker - technical_evaluator
+	-
+	  Relationship:: negative - new - met_in_past - met_recently - meet_regularly
+	-
+	  Mode:: trouble - even_keel - growth - overconfident
+	-
+	  LinkedIn:: /link
+	-
+	  Manager:: name
+	-
+	  Category:: #contacts
+	-
