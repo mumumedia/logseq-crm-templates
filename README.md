@@ -11,7 +11,7 @@ The following templates can be added to your Logseq templates library and used t
 The contact metadata template is for any contact or connection you make and captures their details on a single page.
 
 # logseq-crm-company-template
-The company metadata template is for any company (customer, partner, supplier or competitor) you work with and captures their details on a single page
+The company metadata template is for any company (customer, partner, supplier or competitor) you work with and captures their details on a single page.
 
 # logseq-crm-meeting-template
-The meeting metadata template is for any meetings (customers, leads, opportunities or projects) you have and captures the notes on a single page
+The meeting metadata template is for any meetings (customers, leads, opportunities or projects) you have and captures the notes on a single page.
