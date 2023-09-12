@@ -15,3 +15,6 @@ The company metadata template is for any company (customer, partner, supplier or
 
 # logseq-crm-meeting-template
 The meeting metadata template is for any meetings (customers, leads, opportunities or projects) you have and captures the notes on a single page.
+
+# logseq-crm-lead-template
+The lead metadata template is for any business leads you recieve from contacts and meetings and captures the details on a single page.
