@@ -18,3 +18,6 @@ The meeting metadata template is for any meetings (customers, leads, opportuniti
 
 # logseq-crm-lead-template
 The lead metadata template is for any business leads you receive from contacts and meetings and captures the details on a single page.
+
+# logseq-crm-opportunity-template
+The opportunity metadata template is for business opportunities created from contacts and meetings and captures the details on a single page.
