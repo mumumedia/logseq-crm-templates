@@ -1,0 +1,39 @@
+- Opportunity
+  template:: Opportunity
+  template-including-parent:: false
+	-
+	  Company:: company
+	-
+	  Name:: opportunity name
+	-
+	  Description:: opportunity description
+	-
+	  Value:: $123
+	-
+	  Winnability:: X%
+	-
+	  Created:: <%today%>
+	-
+	  Start:: <%today%>
+	-
+	  Close:: <%today%>
+	-
+	  phase:: qualified - proposal - shortlisted - negotiation - won
+	-
+	  Status:: active - won - lost - deferred - dropped
+	-
+	  Market:: unknown - new - target - existing - core
+	-
+	  Context:: unknown - public domain - outline - detailed - indpeth
+	-
+	  Contact:: none - one_level - two_levels - multi_level - all_levels
+	-
+	  DMU:: not_met - met_one_role - met_some_roles - met_most_roles - met_all_roles
+	-
+	  Drivers:: unknown - no_pain/gain - no_attributed_value - quantified_pain/gain
+	-
+	  Proposition:: none - weak/no delivery - good/no delivery - strong/delivery gaps - strong/full delivery
+	-
+	  Competition:: unknown - multiple - two_or_three - single - preferred
+	-
+	  Category:: #opportunity
