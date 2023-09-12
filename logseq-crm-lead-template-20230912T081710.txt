@@ -1,0 +1,13 @@
+- Lead
+  template:: Lead
+  template-including-parent:: false
+	-
+	  Company:: company
+	-
+	  Contact:: name
+	-
+	  Description:: description
+	-
+	  Stage:: suspect - enquiry - qualified
+	-
+	  Category:: #leads
